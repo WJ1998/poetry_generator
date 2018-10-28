@@ -1,0 +1,6 @@
+model_checkpoint_path: "english.module-101"
+all_model_checkpoint_paths: "english.module-97"
+all_model_checkpoint_paths: "english.module-98"
+all_model_checkpoint_paths: "english.module-99"
+all_model_checkpoint_paths: "english.module-100"
+all_model_checkpoint_paths: "english.module-101"
